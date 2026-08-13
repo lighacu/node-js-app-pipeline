@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: ligha/ultimate-cicd:latest
+        image: ligha/ultimate-cicd:12
         ports:
         - containerPort: 3000
         resources:
